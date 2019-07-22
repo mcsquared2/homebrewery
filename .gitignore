@@ -8,3 +8,5 @@ build/*
 config/local.*
 
 todo.md
+package-lock.json
+
